@@ -1,8 +1,5 @@
 # Laravel-epay API
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-
 Laravel wrapper for the Epay.bg API.
 Working with laravel 5.1
 
@@ -118,5 +115,4 @@ If you discover any security related issues, please email me@dgeorgiev.biz inste
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[link-packagist]: https://packagist.org/packages/league/:package_name
-[link-author]: https://github.com/dgeorgiev
+https://packagist.org/packages/dgeorgiev/epay
