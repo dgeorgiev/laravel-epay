@@ -109,7 +109,7 @@ If you discover any security related issues, please email me@dgeorgiev.biz inste
 
 ## Credits
 
-- [epay.bg demo packages][https://demo.epay.bg/]
+[epay.bg demo packages](https://demo.epay.bg/)
 
 ## License
 
